@@ -1,3 +1,3 @@
-# uts_papb
+# UTS PERAK - PHETERSON FERRY FERNANDO - H1101221020
 
-A new Flutter project.
+Pada UTS ini, saya Pheterson Ferry Fernando dari kelompok 3 membuat aplikasi pencatatan keuangan sederhana dengan menggunakan Flutter dan State Management Riverpod didalamnya.
